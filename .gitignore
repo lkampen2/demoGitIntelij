@@ -1,0 +1,22 @@
+.idea
+
+*.iml
+
+*.class
+
+#log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+*.xml
+
+hs_err_pid*
